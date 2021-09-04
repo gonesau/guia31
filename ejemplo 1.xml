@@ -6,4 +6,12 @@
 <apellido>Barbero</apellido>
 <direccion>Calle de Los Andes, 45</direccion>
 </ficha>
+<ficha id="2" fechaingreso="1/11/2018">
+<nombre>Esaú</nombre>
+<apellido>González</apellido>
+<direccion>Zaragoza, La Libertad</direccion>
+<telefono>+50376171945</telefono>
+<email>fg18041@ues.edu.sv</email>
+<link><![CDATA[<a href="https://github.com/gonesau" target="_blank">My Website</a></font>]]></link>
+</ficha>
 </fichero> 
