@@ -1,0 +1,9 @@
+/* ejemplo1.css BQ18002 */
+
+fichero {background-color:rgb(180, 180, 248)}
+
+ficha{background-color:rgb(238, 192, 192);display:block;}
+nombre{color:white;display:inline;}
+apellido{color:rgb(0, 0, 0);display:inline;}
+
+direccion{color:rgb(0, 0, 0);font-size:1cm;display:none;}

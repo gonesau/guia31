@@ -1,0 +1,35 @@
+﻿{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "843,500",
+				"altura": "493 MSNM",
+				"codigopostal": "01511",
+				"territorio": "1653 km2",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Chalatenango",
+				"zonageografica": "Zona central",
+				"habitantes": "197,788",
+				"altura": "400 MSNM",
+				"codigopostal": "CP 1301",
+				"territorio": "2,017 km2",
+				"lema": "Chalatenango, tierra bendecida",
+				"gentilicio": "Chalateco, Chalateca",
+				"_id": "3",
+				"_nombre": "Chalatenango"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css"?>
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador">
+  <cabecera>San Salvador</cabecera>  
+  <habitantes>1,700,000</habitantes>
+  <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id="2" nombre="La Libertad">
+  <cabecera>Santa Tecla</cabecera>  
+  <habitantes>843,500</habitantes>
+  <altura>493 MSNM</altura>
+  <codigopostal>01511</codigopostal>
+  <territorio>1653 km2</territorio>
+  </departamento>
+  <departamento id="3" nombre="Chalatenango">
+  <cabecera>Chalatenango</cabecera>
+  <zonageografica>Zona central</zonageografica>
+  <habitantes>197,788</habitantes>
+  <altura>400 MSNM</altura>
+  <codigopostal>CP 1301</codigopostal>
+  <territorio>2,017 km2</territorio>
+  <lema>Chalatenango, tierra bendecida</lema>
+  <gentilicio>Chalateco, Chalateca</gentilicio>
+  </departamento>
+</pais>
