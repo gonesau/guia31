@@ -5,7 +5,7 @@ pais {background-color:lightblue}
 departamento[nombre]::before{content:attr(nombre);color:red;font-weight:bold;}
 departamento{background-color:white;display:block;}
 cabecera{display:inline;}
-habitantes{color:yellow;display:inline;}
-altura{color:blue;display:inline;}
+habitantes{color:rgb(105, 105, 43);display:inline;}
+altura{color:rgb(0, 0, 0);display:inline;}
 codigopostal{color:pink;display:inline; font-weight:bold}
-territorio{color:purple;}
+territorio{color:rgb(39, 59, 44);}

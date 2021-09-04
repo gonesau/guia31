@@ -13,14 +13,14 @@
   <codigopostal>01511</codigopostal>
   <territorio>1653 km2</territorio>
   </departamento>
-  <departamento id="3" nombre="Chalatenango">
-  <cabecera>Chalatenango</cabecera>
-  <zonageografica>Zona central</zonageografica>
-  <habitantes>197,788</habitantes>
-  <altura>400 MSNM</altura>
-  <codigopostal>CP 1301</codigopostal>
-  <territorio>2,017 km2</territorio>
-  <lema>Chalatenango, tierra bendecida</lema>
-  <gentilicio>Chalateco, Chalateca</gentilicio>
+  <departamento id="3" nombre="Santa Ana">
+  <cabecera>Santa Ana</cabecera>
+  <zonageografica>Zona Occidental</zonageografica>
+  <habitantes>631,100</habitantes>
+  <altura>665 MSNM</altura>
+  <codigopostal>CP 02010</codigopostal>
+  <territorio>2,023 km2</territorio>
+  <lema>Capital del mundo, sucursal del cielo.</lema>
+  <gentilicio>Santaneco, Santaneca</gentilicio>
   </departamento>
 </pais>
