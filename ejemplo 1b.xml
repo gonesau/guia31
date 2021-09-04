@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejemplo1.xml  FG18041 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="01/11/2018">
+<nombre>Esaú</nombre>
+<apellido>González</apellido>
+<direccion>Zaragoza, La Libertad</direccion>
+<telefono>+50376171945</telefono>
+<email>fg18041@ues.edu.sv</email>
+<link><![CDATA[<a href="https://github.com/gonesau" target="_blank">My Website</a></font>]]></link>
+</ficha>
+<ficha id="3" fechaingreso="28/01/2018">
+<nombre>Esaú</nombre>
+<apellido>González</apellido>
+<direccion>Zaragoza, La Libertad</direccion>
+<telefono>+50376171945</telefono>
+<email>fg18041@ues.edu.sv</email>
+<dui>06097163-5</dui>
+<isss>100732400</isss>
+<afp>275645850018</afp>
+<link><![CDATA[<a href="https://github.com/gonesau" target="_blank">My Website</a></font>]]></link>
+</ficha>
+</fichero> 
